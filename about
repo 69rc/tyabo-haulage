@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Tyabo Haulage</title>
+</head>
+<style>
+   body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: rgb(42, 112, 112);
+}
+
+h1 {
+  color: #1b4e5c;
+}
+
+ul {
+  list-style: none;
+  margin: 20px 0;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 18px;
+}
+</style>
+<body>
+  <h1>About Tyabo Haulage</h1>
+  <p>Tyabo Haulage is a family-owned transportation company based in the heart of the United States. We have been in business for over 20 years, and pride ourselves on delivering top-quality service to our clients. Our team is dedicated to ensuring that your cargo arrives safely and on time, every time.</p>
+  <h2>Our Services</h2>
+  <ul>
+    <li>Trucking</li>
+    <li>Logistics</li>
+    <li>Warehousing</li>
+  </ul>
+  <h2>Our Values</h2>
+  <ul>
+    <li>Safety</li>
+    <li>Reliability</li>
+    <li>Customer satisfaction</li>
+  </ul>
+</body>
+</html>

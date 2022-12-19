@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <style>
+      body {
+  font-family: Arial, sans-serif;
+  color: rgb(25, 27, 27);
+  background-color: rgb(21, 100, 100);
+}
+
+h1 {
+  color: #00b4e6;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #00b4e6;
+  border-radius: 5px;
+}
+
+label {
+  margin-top: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+button[type="submit"] {
+  background-color: #00b4e6;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button[type="submit"]:hover {
+  background-color: #0099cc;
+}
+   </style>
+  <title>Contact Tyabo Haulage</title>
+</head>
+<body>
+  <h1>Contact Tyabo Haulage</h1>
+  <p>Need to get in touch with us? Use the form below to send us a message or give us a call at the number listed below.</p>
+
+  <h2>Send us a message</h2>
+  <form action="/send-message" method="post">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name"><br>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email"><br>
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message"></textarea><br>
+    <button type="submit">Send</button>
+  </form> 
+
+  <h2>Give us a call</h2>
+  <p>Phone: 08029425952</p>
+</body>
+</html>

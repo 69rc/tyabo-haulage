@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(15, 82, 71);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(9, 155, 87);
+  color: white;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  background-color: #eee;
+  padding: 10px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #999;
+}
+
+main {
+  margin: 20px;
+}
+
+section {
+  margin: 20px 0;
+}
+

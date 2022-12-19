@@ -1,0 +1,52 @@
+<html>
+  <head><style>
+    /* Add your styles here */
+    body {
+      background-color: rgb(30, 122, 122);
+      color: black;
+      font-family: sans-serif;
+      font-size: 18px;
+    }
+
+    h1 {
+      font-size: 36px;
+      text-align: center;
+    }
+  </style>
+
+    <title>Service Page - tyabo Haulage</title>
+
+  </head>
+  <body>
+    <h1>Introduction</h1>
+    <p>Welcome to tybo haulage, a leading provider of transportation services for over 20 years. We are committed to delivering exceptional service to our clients, ensuring that their goods arrive at their destination on time and in perfect condition.</p>
+    
+    <h2>Services</h2>
+    <p>At Tyabo Haulage, we offer a range of transportation services to meet the needs of our clients. This includes:</p>
+    <ul>
+      <li>Road haulage: We have a fleet of modern, well-maintained vehicles that are capable of transporting goods of all sizes and weights.</li>
+      <li>Rail haulage: For clients who prefer to transport their goods by rail, we offer a reliable and cost-effective service that covers a wide range of destinations.</li>
+      <li>Sea freight: We also offer a comprehensive sea freight service, with a network of partners that enables us to deliver goods to ports around the world.</li>
+    </ul>
+    
+    <h2>Fleet</h2>
+    <p>Our fleet consists of a variety of vehicles, including:</p>
+    <ul>
+      <li>Articulated lorries: These vehicles are ideal for transporting large or heavy loads, with a capacity of up to 44 tonnes.</li>
+      <li>Rigid lorries: With a capacity of up to 26 tonnes, these vehicles are suitable for a range of goods, from pallets to large containers.</li>
+      <li>Specialized vehicles: We also have a range of specialized vehicles, including refrigerated lorries for temperature-sensitive cargo and flatbed lorries for oversized loads.</li>
+    </ul>
+    
+    <h2>Coverage</h2>
+    <p>At tyabohaulage, we serve a wide range of destinations, both nationally and internationally. Our network of partners enables us to deliver goods to locations across Europe, as well as to ports around the world.</p>
+    
+    <h2>Partnerships</h2>
+    <p>We are proud to have established partnerships with a number of leading organizations in the transportation industry. These partnerships allow us to offer our clients a range of benefits, including access to a larger network of routes and greater flexibility in terms of delivery options.</p>
+    
+    <h2>Customer support</h2>
+    <p>At tyabo Haulage, we understand the importance of timely and efficient delivery. That's why we have a team of dedicated customer support professionals who are available to assist our clients with any questions or concerns they may have before, during, and after the delivery process.</p>
+    
+    <h2>Contact information</h2>
+    <p>If you have any questions or would like to learn more about our services, please don't hesitate to get in touch. You can reach us by phone at (123) 456-7890 or by email at <a href="mailto:info@tyabochaulage.com">info@tyabohaulage.com</a>. Our physical is at no 18 itapeju lagos nigeria.</p>
+    
+    <h2>Test
