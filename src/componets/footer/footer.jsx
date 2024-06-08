@@ -50,7 +50,7 @@ const Footer = () => {
                 <div className="copyright">
                     <Row>
                         <Col md={6} className="text-center text-md-start mb-3 mb-md-0">
-                            © <a className="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
+                            © <a className="border-bottom" href="#">btech</a>, All Right Reserved.
                         </Col>
                         <Col md={6} className="text-center text-md-end">
                             {/* Designed By <a className="border-bottom" href="https://htmlcodex.com">HTML Codex</a>

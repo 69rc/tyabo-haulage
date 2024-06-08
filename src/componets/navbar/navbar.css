@@ -2,7 +2,7 @@
   background-color: #fffffff6;
   border-bottom: 1px solid #dedede;
   /* box-shadow: 1px 1px 10px 1px #dedede; */
-  color: #FF3E41;
+  /* color: #FF3E41; */
 }
 .header {
   min-width: 95%;
@@ -117,11 +117,11 @@ header {
   transition: linear 0.2s;
 }
 .navlist .active {
-  color: var(--main-color);
+  color: #FF3E41;
   font-weight: bold;
 }
 .navlist a:hover {
-  color: var(--main-color);
+  color: #FF3E41;
 }
 .contact {
   background: var(--main-color);

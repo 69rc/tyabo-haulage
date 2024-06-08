@@ -3,6 +3,8 @@ import { Container, Row, Col } from 'reactstrap';
 import { FaFacebookF, FaTwitter, FaInstagram, FaShare } from 'react-icons/fa';
 import profile from '../../assets/profile.jpg';
 import profile2 from '../../assets/profile2.jpg';
+import Profile3 from "../../assets/AUWAL.jpg"
+import Profile4 from "../../assets/musty.jpg"
 
 const TeamSection = () => {
     return (
@@ -19,7 +21,7 @@ const TeamSection = () => {
                                 <img className="img-fluid h" src={profile}  alt="Team Member 1" />
                             </div>
                             <h5 className="mb-0">Bashir muhammad jibrin</h5>
-                            <p>C0O</p>
+                            <p>COO</p>
                             <div className="btn-slide mt-1">
                                 {/* <FaShare /> */}
                                 <span className='social-icons'>
@@ -50,9 +52,9 @@ const TeamSection = () => {
                     <Col lg={3} md={6} className="wow fadeInUp" data-wow-delay="0.7s">
                         <div className="team-item p-4">
                             <div className="overflow-hidden mb-4">
-                                <img className="img-fluid h " src={profile} alt="Team Member 3" />
+                                <img className="img-fluid h " src={Profile4} alt="Team Member 3" />
                             </div>
-                            <h5 className="mb-0">David Johnson</h5>
+                            <h5 className="mb-0">Mustapha  jibrin</h5>
                             <p>CTO</p>
                             <div className="btn-slide mt-1">
                                 {/* <FaShare /> */}
@@ -67,10 +69,10 @@ const TeamSection = () => {
                     <Col lg={3} md={6} className="wow fadeInUp" data-wow-delay="0.9s">
                         <div className="team-item p-4">
                             <div className="overflow-hidden mb-4">
-                                <img className="img-fluid" src={profile2}alt="Team Member 4" />
+                                <img className="img-fluid h" src={Profile3}alt="Team Member 4" />
                             </div>
-                            <h5 className="mb-0">Emily Brown</h5>
-                            <p>Lead Developer</p>
+                            <h5 className="mb-0">Auwal bello muhammad</h5>
+                            <p>CFO</p>
                             <div className="btn-slide mt-1">
                                 {/* <FaShare /> */}
                                 <span className='social-icons'>

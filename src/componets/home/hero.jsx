@@ -5,6 +5,7 @@ import About from '../about/about'
 import Service from '../services/services'
 import Features from '../features/features'
 import Teem from '../teem/teem'
+import Contact from "../contact/contact"
 function Home() {
   return (
     <>
@@ -28,6 +29,7 @@ function Home() {
     <Service/>
     <Features/>
     <Teem />
+    <Contact/>
     </>
   )
 }
