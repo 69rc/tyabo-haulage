@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://69rcgithub.io/tyabo-haulage",
+  "homepage": "https://69rc.github.io/tyabo-haulage",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
