@@ -21,7 +21,7 @@ const AboutSection = () => {
                 <Row className="g-5 mx-lg-0">
                     <Col lg={6} className="ps-lg-0 wow fadeInLeft" data-wow-delay="0.1s">
                         <div className="position-relative h-100">
-                            <img className=" img-fluid w-100 h-100" src={Aboutimg} style={{ objectFit: 'cover' }} alt="" />
+                            <img className=" img-fluid w-100 h-100" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmTXKGCobbGx4TUvVt0iW31AlROX85hdJLw&shttps://images.app.goo.gl/Hqd1MJQh2ff7KHww8' style={{ objectFit: 'cover' }} alt="" />
                         </div>
                     </Col>
                     <Col lg={6} className="about-text wow fadeInUp" data-wow-delay="0.3s">
