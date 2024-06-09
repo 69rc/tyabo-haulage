@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import { FaGlobe, FaShippingFast, FaHeadphones } from 'react-icons/fa'; // Import icons from react-icons
-// import featureImage from '../../assets/features.jpg'; // Import the feature image
+import featureImage from '../../assets/features.jpg'; // Import the feature image
 
 const FeatureSection = () => {
     return (
@@ -35,7 +35,7 @@ const FeatureSection = () => {
                     </Col>
                     <Col lg={6} className="pe-lg-0 wow fadeInRight" data-wow-delay="0.1s">
                         <div className="position-relative h-100">
-                            <img className=" img-fluid w-100 h-100" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ixn9ceTKKhs1ROJQOvnTZOi2n0TLjIdFoA&s' alt="" />
+                            <img className=" img-fluid w-100 h-100" src={featureImage} alt="" />
                         </div>
                     </Col>
                 </Row>
