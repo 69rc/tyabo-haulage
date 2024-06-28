@@ -47,7 +47,7 @@ export default function Navbar() {
       <div className="inner">
        <ul className={`navlist`} onClick={handleLinkClick}>
           <li>
-            <NavLink to="/Home" >
+            <NavLink to="/" >
               Home
             </NavLink>
           </li>
